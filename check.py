@@ -4,7 +4,7 @@ This file "check.py" was made by Jackie Wedgwood for the University of Portsmout
 This script simply checks the 5-clique count of a graph.
 
 Associated files/folders:
-    graph.txt:          adjacency matrix of graph to be checked
+    graph.txt:          adjacency list of graph to be checked
 
 Notes:
     This is mainly used to verify graph 5-clique counts, but otherwise has
@@ -40,7 +40,7 @@ main():
 
     no return
 
-    This main loop opens a graph's adjacency matrix file and prints the result of
+    This main loop opens a graph's adjacency list file and prints the result of
     give_K5_cliques().
 """
 def main():

@@ -8,8 +8,8 @@ Associated files/folders:
     graphs/[num.txt]:   individual graph of data set
     cliques.txt:        file holding fitness values of every graph in data set
     fitness_log.txt:    log of best fitness value of each generation
-    best.txt:           adjacency matrix of the best graph from the data set
-    found.txt:          if found, an adjacency matrix of a (5,5,43)-graph
+    best.txt:           adjacency list of the best graph from the data set
+    found.txt:          if found, an adjacency list of a (5,5,43)-graph
 
 Notes:
     This algorithm is more detailed in the report, and uses terminology from

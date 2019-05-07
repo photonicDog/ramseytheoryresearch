@@ -4,9 +4,9 @@ This file "hillclimb.py" was made by Jackie Wedgwood for the University of Ports
 This constitutes the hill climbing algorithm of this project.
 
 Associated files/folders:
-    graph.txt:          adjacency matrix of initial graph
-    new.txt:            adjacency matrix of best currently found graph
-    0.txt:              if found, adjacency matrix of (5,5,43)-graph
+    graph.txt:          adjacency list of initial graph
+    new.txt:            adjacency list of best currently found graph
+    0.txt:              if found, adjacency list of (5,5,43)-graph
 
 Notes:
     This algorithm is rather simple, and is mentioned briefly in Chapter 4.2.

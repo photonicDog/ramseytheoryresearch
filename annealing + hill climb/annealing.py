@@ -4,8 +4,8 @@ This file "annealing.py" was made by Jackie Wedgwood for the University of Ports
 This constitutes the simulated annealing algorithm of this project.
 
 Associated files/folders:
-    graph.txt:          adjacency matrix of initial graph
-    best.txt:           adjacency matrix of best currently found graph
+    graph.txt:          adjacency list of initial graph
+    best.txt:           adjacency list of best currently found graph
 
 Notes:
     This algorithm is more detailed in the report, and uses terminology from
